@@ -32,8 +32,7 @@ In conclusione, il modello rappresenta un primo passo verso un sistema di classi
 
 
 
-# Neural-Network-for-Neurological-diseases
-Dataset author:
+## dataset author
 @dataset{alzheimer_mri_dataset,
   author = {Falah.G.Salieh},
   title = {Alzheimer MRI Dataset},
