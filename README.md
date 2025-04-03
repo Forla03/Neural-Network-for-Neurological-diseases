@@ -29,3 +29,16 @@ Dopo l'addestramento, il modello viene valutato in termini di accuratezza e perd
 - Accuratezza finale sull'insieme di validazione: 88.44%
 
 In conclusione, il modello rappresenta un primo passo verso un sistema di classificazione automatica delle immagini mediche, con potenziali applicazioni in ambito diagnostico.
+
+
+
+# Neural-Network-for-Neurological-diseases
+Dataset author:
+@dataset{alzheimer_mri_dataset,
+  author = {Falah.G.Salieh},
+  title = {Alzheimer MRI Dataset},
+  year = {2023},
+  publisher = {Hugging Face},
+  version = {1.0},
+  url = {https://huggingface.co/datasets/Falah/Alzheimer_MRI}
+}
